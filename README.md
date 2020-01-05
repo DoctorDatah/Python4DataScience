@@ -1,6 +1,9 @@
 # Python4DataScience
-This Repo contains introductory code for understanding important libraries in python for getting started as a Data Scientist. 
+This Repo contains code for important libraries in python that are used in Machine Learning and Data Science projects. 
 
-### Are you Excited!! 
-# Lets Begin
+**Content**
+
+- Pandas 
+
+# In Progress !!
 
