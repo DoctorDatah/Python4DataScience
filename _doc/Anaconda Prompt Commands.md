@@ -3,6 +3,7 @@ conda create --name ENV_NAME
 activate ENV_NAME
 
 conda info --envs
+conda env list
 
 conda env remove -n ENV_NAME
 
