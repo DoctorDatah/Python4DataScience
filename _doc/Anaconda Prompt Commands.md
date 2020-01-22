@@ -60,3 +60,8 @@ https://github.com/lckr/jupyterlab-variableInspector
 
 **Adding Path Variable** <br>
 https://www.youtube.com/watch?v=A7E18apPQJs
+
+**Spell Checker Jupyter Lab**
+
+conda install -c conda-forge nodejs<br>
+jupyter labextension install @ijmbarr/jupyterlab_spellchecker
