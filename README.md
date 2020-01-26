@@ -8,6 +8,7 @@ This Repo contains practice code for important libraries in python that are used
     - Ch3: Build in Data Structures, Functions and Files <br>
     - Ch4: Numpy Arrays and Vectorized Computation
     - Ch5: Getting Started with Pandas
+    - Ch9: Plotting and Visualization
       [In Progress]
 - Object Oriented Programming (Udemy)
     - Ch1: Introduction
