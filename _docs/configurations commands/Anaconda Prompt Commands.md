@@ -50,7 +50,7 @@ User<br>
 pip install jupyter_contrib_nbextensions
 jupyter contrib nbextension install --user
 <br>Virtual environment<br>
-pip install jupyter_contrib_nbextensions
+pip install jupyter_contrib_nbextensions <br>
 jupyter contrib nbextension install --sys-prefix
 <br>Enable<br>
 jupyter nbextension enable varInspector/main
@@ -65,3 +65,12 @@ https://www.youtube.com/watch?v=A7E18apPQJs
 
 conda install -c conda-forge nodejs<br>
 jupyter labextension install @ijmbarr/jupyterlab_spellchecker
+
+
+**Update Conda** <br>
+conda update -n base -c defaults conda 
+
+**Update Jupter lab**<br>
+conda install -c conda-forge jupyterlab
+
+
