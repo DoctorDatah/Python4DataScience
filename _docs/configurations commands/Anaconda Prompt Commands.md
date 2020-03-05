@@ -45,7 +45,7 @@ https://pythontips.com/2013/07/28/what-is-__init__-py/
 
 first of all, I would got for one python Version. Preferably the Python3 Version. Uninstall Conda with conda install anaconda-cleanand re-install
 
-**Extensions**<br>
+**Extensions Jupyter notebook**<br>
 User<br>
 pip install jupyter_contrib_nbextensions
 jupyter contrib nbextension install --user
@@ -70,7 +70,28 @@ jupyter labextension install @ijmbarr/jupyterlab_spellchecker
 **Update Conda** <br>
 conda update -n base -c defaults conda 
 
-**Update Jupter lab**<br>
+**install Jupter lab**<br>
+Latest version might have Errors <br>
 conda install -c conda-forge jupyterlab
+<br> For Specific Version <br>
+conda install -c conda-forge jupyterlab=1.0.0
+<br> List of Releases <br>
+https://jupyterlab.readthedocs.io/en/stable/getting_started/changelog.html
+<br>**Build Extension after install**<br>
+jupyter lab build
 
+
+
+**Nodejs** <br>
+conda install -c conda-forge nodejs
+<br>
+conda install nodejs
+
+**Reset Everything base+all**<br>
+conda install --revision 0
+ <br>
+
+
+**TIP:** <br>
+**pip/conda try either of one, if one does not work**
 
