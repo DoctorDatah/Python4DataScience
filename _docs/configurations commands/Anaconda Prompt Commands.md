@@ -58,6 +58,10 @@ jupyter nbextension enable varInspector/main
 
 https://github.com/lckr/jupyterlab-variableInspector
 
+<br>
+Markup Render for JupyterLab
+pip install jupyterlab_markup
+
 **Adding Path Variable** <br>
 https://www.youtube.com/watch?v=A7E18apPQJs
 
